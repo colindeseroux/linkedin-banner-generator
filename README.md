@@ -1,6 +1,6 @@
 # LinkedIn banner generator
 
-A tool to create customized LinkedIn banners (implementation of [worldcloud](https://github.com/amueller/word_cloud)).
+A tool to create customized LinkedIn banners (implementation of [wordcloud](https://github.com/amueller/word_cloud)).
 
 ![my-banner.jpg](./assets/my-banner.jpg)
 
