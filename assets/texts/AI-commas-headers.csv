@@ -1,0 +1,39 @@
+weight,word
+1,AI  
+5,Machine Learning  
+1,Deep Learning  
+1,Neural Network  
+1,Supervised Learning  
+3,Unsupervised Learning  
+1,Reinforcement Learning  
+1,Model Training  
+1,Overfitting  
+1,Dataset  
+1,Feature Engineering  
+1,Inference  
+1,Model Deployment  
+1,NLP  
+1,LLM  
+1,Transformer  
+1,Tokenization  
+1,BERT  
+1,GPT  
+1,Embedding  
+1,Text Classification  
+1,Named Entity Recognition  
+1,Sentiment Analysis  
+1,Image Classification  
+1,Object Detection  
+1,Semantic Segmentation  
+10,Instance Segmentation  
+1,Pose Estimation  
+1,Image Captioning  
+1,YOLO  
+1,Faster R-CNN  
+1,SSD  
+1,Mask R-CNN  
+1,OpenCV  
+1,CLIP  
+1,ResNet  
+1,EfficientNet  
+1,Vision Transformer  

@@ -1,0 +1,154 @@
+[
+    {
+        "word": "AI",
+        "weight": 1
+    },
+    {
+        "word": "Machine Learning",
+        "weight": 5
+    },
+    {
+        "word": "Deep Learning",
+        "weight": 1
+    },
+    {
+        "word": "Neural Network",
+        "weight": 1
+    },
+    {
+        "word": "Supervised Learning",
+        "weight": 1
+    },
+    {
+        "word": "Unsupervised Learning",
+        "weight": 3
+    },
+    {
+        "word": "Reinforcement Learning",
+        "weight": 1
+    },
+    {
+        "word": "Model Training",
+        "weight": 1
+    },
+    {
+        "word": "Overfitting",
+        "weight": 1
+    },
+    {
+        "word": "Dataset",
+        "weight": 1
+    },
+    {
+        "word": "Feature Engineering",
+        "weight": 1
+    },
+    {
+        "word": "Inference",
+        "weight": 1
+    },
+    {
+        "word": "Model Deployment",
+        "weight": 1
+    },
+    {
+        "word": "NLP",
+        "weight": 1
+    },
+    {
+        "word": "LLM",
+        "weight": 1
+    },
+    {
+        "word": "Transformer",
+        "weight": 1
+    },
+    {
+        "word": "Tokenization",
+        "weight": 1
+    },
+    {
+        "word": "BERT",
+        "weight": 1
+    },
+    {
+        "word": "GPT",
+        "weight": 1
+    },
+    {
+        "word": "Embedding",
+        "weight": 1
+    },
+    {
+        "word": "Text Classification",
+        "weight": 1
+    },
+    {
+        "word": "Named Entity Recognition",
+        "weight": 1
+    },
+    {
+        "word": "Sentiment Analysis",
+        "weight": 1
+    },
+    {
+        "word": "Image Classification",
+        "weight": 1
+    },
+    {
+        "word": "Object Detection",
+        "weight": 1
+    },
+    {
+        "word": "Semantic Segmentation",
+        "weight": 1
+    },
+    {
+        "word": "Instance Segmentation",
+        "weight": 10
+    },
+    {
+        "word": "Pose Estimation",
+        "weight": 1
+    },
+    {
+        "word": "Image Captioning",
+        "weight": 1
+    },
+    {
+        "word": "YOLO",
+        "weight": 1
+    },
+    {
+        "word": "Faster R-CNN",
+        "weight": 1
+    },
+    {
+        "word": "SSD",
+        "weight": 1
+    },
+    {
+        "word": "Mask R-CNN",
+        "weight": 1
+    },
+    {
+        "word": "OpenCV",
+        "weight": 1
+    },
+    {
+        "word": "CLIP",
+        "weight": 1
+    },
+    {
+        "word": "ResNet",
+        "weight": 1
+    },
+    {
+        "word": "EfficientNet",
+        "weight": 1
+    },
+    {
+        "word": "Vision Transformer",
+        "weight": 1
+    }
+]

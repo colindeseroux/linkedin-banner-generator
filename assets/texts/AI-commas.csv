@@ -1,0 +1,107 @@
+Artificial Intelligence,500
+AI,500
+Machine Learning,3
+ML,3
+Deep Learning,3
+DL,3
+Neural Network,3
+NN,3
+Supervised Learning,3
+Unsupervised Learning,3
+Reinforcement Learning,3
+RL,3
+Model Training,3
+Overfitting,3
+Dataset,3
+Feature Engineering,3
+Inference,3
+Model Deployment,3
+Natural Language Processing,3
+NLP,3
+Large Language Model,3
+LLM,3
+Transformer Architecture,3
+Tokenization,3
+Bidirectional Encoder Representations from Transformers,3
+BERT,3
+Generative Pre-trained Transformer,3
+GPT,3
+Embedding,3
+Text Classification,3
+Named Entity Recognition,3
+NER,3
+Sentiment Analysis,3
+Image Classification,5
+Object Detection,5
+Semantic Segmentation,5
+Instance Segmentation,5
+Pose Estimation,5
+Image Captioning,5
+You Only Look Once,1
+YOLO,5
+Faster Region-based Convolutional Neural Network,5
+Faster R-CNN,5
+Single Shot MultiBox Detector,5
+SSD,5
+Mask Region-based Convolutional Neural Network,5
+Mask R-CNN,5
+Open Source Computer Vision Library,5
+OpenCV,5
+Contrastive Language–Image Pre-training,5
+CLIP,5
+Residual Network,5
+ResNet,5
+Efficient Network,5
+EfficientNet,5
+Vision Transformer,5
+ViT,5
+AlexNet,5
+LeNet,5
+VGGNet,5
+VGG,5
+Inception Network,5
+GoogLeNet,5
+Swin Transformer,5
+Swin,5
+DALL·E,5
+Stable Diffusion,5
+SD,5
+Text-to-Image,5
+T3I,5
+Convolutional Neural Network,5
+CNN,5
+Recurrent Neural Network,3
+RNN,3
+Long Short-Term Memory,3
+LSTM,3
+Gated Recurrent Unit,3
+GRU,3
+Autoencoder,3
+Variational Autoencoder,3
+VAE,3
+Generative Adversarial Network,3
+GAN,3
+Self-Supervised Learning,3
+Zero-Shot Learning,3
+Few-Shot Learning,3
+Transfer Learning,3
+Meta Learning,3
+Multi-Modal Learning,3
+T5,3
+BLOOM,3
+OPT,3
+FLAN-T5,3
+LaMDA,3
+PaLM,3
+Chinchilla,3
+Mistral,3
+CodeBERT,3
+ImageNet,5
+COCO,5
+CIFAR-30,5
+CIFAR-300,5
+MNIST,5
+Fashion-MNIST,5
+SQuAD,3
+Common Crawl,3
+WikiText,3
